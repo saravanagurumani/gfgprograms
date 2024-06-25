@@ -4,7 +4,7 @@ public class Findlastdigit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		double a=21,b=5;
+		double a=2,b=5;
 		int ans=(int) (Math.pow(a, b));
 		System.out.println("the power of number is : " + ans);
 		System.out.println("Firstdigit " + firstdigit(ans));
