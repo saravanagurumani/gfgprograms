@@ -18,7 +18,7 @@ public class Gcdoftwonumber {
 				gcd=i;              //declare the  greatest among common divide number to gcd variable
 			}
 		}
-		System.out.println("%dAmong the commonly divided number in greatest number is "+ gcd);
+		System.out.println("Among the commonly divided number in greatest number is "+ gcd);
 		
 	}
 	
