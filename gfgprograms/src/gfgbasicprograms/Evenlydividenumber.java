@@ -18,7 +18,7 @@ public class Evenlydividenumber {
 					count++;
 				}
 			}
-			givennum/=10;  // we check the first digit of the gieven number and again check the given number by first digit
+			givennum/=10;  // we check the first digit of the given number and again check the given number by first digit
 		}
 		System.out.println("the answer is : " + count);
 	}
